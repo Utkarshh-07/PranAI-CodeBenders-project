@@ -164,7 +164,7 @@ lib/
 
 ## 🎥 Demo Video
 
-[▶️ Watch the PranAI + voice demo](PASTE_YOUR_NEW_VIDEO_LINK_HERE)
+[▶️ Watch the PranAI + voice demo](https://youtu.be/dwEP5pIBlTM)
 
 **Covers:**
 - ✅ Voice input via AssemblyAI real-time transcription
@@ -179,8 +179,8 @@ lib/
 ## 🛠️ Local Setup
 
 ```bash
-git clone https://github.com/YOUR_NEW_HACKATHON_REPO.git
-cd PranAI
+git clone https://github.com/Utkarshh-07/PranAI-CodeBenders-project
+cd prana
 flutter pub get
 flutter run
 ```
